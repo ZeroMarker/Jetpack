@@ -66,5 +66,21 @@ private val allPersons = listOf(
     Person(
         firstName = "Taylor",
         lastName = "Swift"
+    ),
+    Person(
+        firstName = "Linus",
+        lastName = "Zox"
+    ),
+    Person(
+        firstName = "Skylar",
+        lastName = "Vox"
+    ),
+    Person(
+        firstName = "あいり",
+        lastName = "清水"
+    ),
+    Person(
+        firstName = "紗梨",
+        lastName = "香坂"
     )
 )
